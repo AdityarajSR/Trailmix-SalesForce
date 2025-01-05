@@ -1,4 +1,4 @@
-//Rishabh Sharma - rishabh.s2511@gmail.com
+//Adityaraj Singh Rajput - adityaraj.rajput2002@gmail.com
 
 trigger consumerTrigger on consumer__c (After insert) {
     if(trigger.isAfter && trigger.isInsert) {

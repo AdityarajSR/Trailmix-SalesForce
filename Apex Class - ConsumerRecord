@@ -1,4 +1,4 @@
-//Rishabh Sharma - rishabh.s2511@gmail.com
+//Adityaraj Singh Rajput - adityaraj.rajput2002@gmail.com
 
 public class ConsumerRecord {
     public static void sendEmailNotification (List<consumer__c> con){
